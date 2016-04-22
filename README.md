@@ -1,2 +1,2 @@
-# udp_sendmsg
-send msg by udp method
+# udp_message
+udp send message example
